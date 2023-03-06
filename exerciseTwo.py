@@ -66,7 +66,8 @@ class Diary:
               print("Teléfono: ", self.contactos[x]["telf"])
               print("Email: ", self.contactos[x]["email"])
               return x
-    
+    def editar():
+        pass
     
     
 
